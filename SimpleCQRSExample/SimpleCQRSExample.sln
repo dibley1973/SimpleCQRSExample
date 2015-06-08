@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Client", "01.Client", "{78CBB5FD-4A1A-415D-9A13-B5B657E48D90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Application", "03.Application", "{41EDC62F-492F-4542-927C-FFCA7E6CF878}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.QueryData", "04.QueryData", "{AB355B8A-CBE7-4177-BAAE-652D44204357}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.DomainModel", "05.DomainModel", "{D12EA2FF-3DB9-4F6A-82A1-F5051F505B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Infrastructure", "06.Infrastructure", "{46DE7B2D-7981-4F0D-ADE1-4A251E4D4113}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Database", "07.Database", "{B59D995B-097F-49C1-8322-4C44A311C705}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Tests", "08.Tests", "{5D225B3C-8834-4BA8-9421-FF8DB5F6D340}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Shared", "02.Shared", "{26E065DA-8AA9-4329-951A-BD5AB1FAA671}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
